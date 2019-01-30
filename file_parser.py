@@ -33,7 +33,7 @@ def replace_element(path, instance, replaced):
 
 if __name__ == "__main__":
 
-    path_to_file = path.abspath('' + 'static\\test1.txt')
+    path_to_file = path.abspath('' + 'static\\test.txt')
     print(path_to_file)
 
     answer = True

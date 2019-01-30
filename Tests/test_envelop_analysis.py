@@ -1,7 +1,7 @@
 from unittest import TestCase
 
-from Analysis_of_envelopes import Envelope
-from Analysis_of_envelopes import envelope_analysis
+from analysis_of_envelopes import Envelope
+from analysis_of_envelopes import envelope_analysis
 
 
 class TestEnvelopeEntry(TestCase):

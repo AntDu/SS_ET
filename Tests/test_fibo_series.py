@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from Fibonacci_series import Fibonacci
+from fibonacci_series import Fibonacci
 
 
 class TestFibonacci(TestCase):

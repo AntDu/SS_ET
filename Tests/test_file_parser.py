@@ -1,8 +1,8 @@
 from os import path
 from unittest import TestCase
 
-from File_parser import counting_elements
-from File_parser import replace_element
+from file_parser import counting_elements
+from file_parser import replace_element
 
 
 class TestFileParser(TestCase):

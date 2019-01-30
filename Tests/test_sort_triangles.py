@@ -1,8 +1,8 @@
 from unittest import TestCase
 
-from Sort_triangles import Triangle
-from Sort_triangles import triangle_is_exist
-from Sort_triangles import triangle_is_valid
+from sort_triangles import Triangle
+from sort_triangles import triangle_is_exist
+from sort_triangles import triangle_is_valid
 
 
 class TestTriangle(TestCase):
